@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'OpenSans';
+    font-style: normal;
+    /* font-weight: 400; */
+    src: local('OpenSans Regular'), local('OpenSans-Regular'), url("../fonts/open-sans/OpenSans-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Caveat';
+    font-style: normal;
+    /* font-weight: 400; */
+    src: local('Caveat Regular'), local('Caveat-Regular'), url("../fonts/caveat/Caveat-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    src: local('Roboto Regular'), local(Roboto-Regular), url("../fonts/roboto/Roboto-Regular.tff") format('truetype');
+}
